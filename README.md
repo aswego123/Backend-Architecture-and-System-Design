@@ -40,3 +40,7 @@ practice/
 - ByteByteGo (newsletter + YouTube)
 - High Scalability blog; engineering blogs of Uber, Netflix, Dropbox, Discord
 - roadmap.sh/backend
+
+## More Reference Links
+- https://www.youtube.com/watch?v=C842vFY5kRo
+- https://www.youtube.com/watch?v=Qa-7iWxDz1A&t=53s
